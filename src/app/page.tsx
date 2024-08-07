@@ -7,7 +7,7 @@ export default async function Home() {
       <div className=" space-y-5">
         <h1 className=" text-4xl lg:text-6xl  ">Gallery</h1>
         <p className=" font-thin lg:text-xl">
-          The internet's source for visuals.
+          The internet source for visuals.
         </p>
 
         <p className="font-thin lg:text-xl">
